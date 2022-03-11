@@ -22,3 +22,5 @@ def melon_stuff(log_file):
             print(line)
 
 melon_stuff(log_file)
+
+log_file.close()
